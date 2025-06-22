@@ -5,7 +5,7 @@
 
 - I’m currently working on **Large Language Models**
 
-- I'm currently learning developing frameworks for **Machine Learning and Deep Learning models**
+- I'm currently learning **backend developing** and **data analytic** skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
