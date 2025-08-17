@@ -7,7 +7,7 @@
 
 - I'm currently learning **AI application engineering** and **Data Engineering** skills
 
-- Research Assistant in [Wearable System Lab]https://www.wearablesystems.org/ at SJTU 
+- Research Assistant in [Wearable System Lab](https://www.wearablesystems.org/) at SJTU 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
