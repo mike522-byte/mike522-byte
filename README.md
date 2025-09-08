@@ -5,8 +5,6 @@
 
 - Specialized in Post-training (Fine-tune, quantization, distillation) of **Large Language Models** and **Vision Models**
 
-- Research Assistant in [Wearable System Lab](https://www.wearablesystems.org/) at SJTU
-
 - I'm currently learning **AI application engineering** and **Data Engineering** skills
 
 <h3 align="left">Connect with me:</h3>
