@@ -3,10 +3,12 @@
 
 - M.Eng in Robotics and Artificial Intelligence **of Shanghai Jiao Tong University**
 
-- Specialized in Post-training (Fine-tune, quantization, distillation) of **Large Language Models** and **Vision Models**
+- Research Background in Post-training (Fine-tune, quantization, distillation) of **Large Language Models** and **Vision Models**
 
-- I'm currently learning **AI application engineering** and **Data Engineering** skills
+- Currently financial **Data Analyst** with expertise in **SQL**, **Python**
 
+- Retail Option Trading
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ming-jie-lim-326a85227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ming-jie-lim-326a85227" height="30" width="40" /></a>
