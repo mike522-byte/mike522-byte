@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ming Jie</h1>
-<h3 align="center">An AI/ML researcher with experience in CV, LLM.</h3>
+<h3 align="center">AI/ML researcher with experience in CV, LLM.</h3>
 
 - M.Eng in Robotics and Artificial Intelligence **of Shanghai Jiao Tong University**
 
