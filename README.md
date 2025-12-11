@@ -5,7 +5,7 @@
 
 - Research Background in Post-training (Fine-tune, quantization, distillation) of **Large Language Models** and **Vision Models**
 
-- Currently financial **Data Analyst** with expertise in **Python**, **SQL**
+- Currently financial **AI Engineer** with expertise in **Python**, **SQL**
 
 - Retail Option Trading
   
