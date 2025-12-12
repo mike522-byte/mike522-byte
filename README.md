@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ming Jie</h1>
 <h3 align="center">AI/ML researcher with experience in CV, LLM.</h3>
 
-- M.Eng in Robotics and Artificial Intelligence **of Shanghai Jiao Tong University**
+- B.Eng in Robotics and Artificial Intelligence **of Shanghai Jiao Tong University**
 
 - Research Background in Post-training (Fine-tune, quantization, distillation) of **Large Language Models** and **Vision Models**
 
