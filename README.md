@@ -4,21 +4,13 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/ming-jie-lim-326a85227" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" height="32"/>
-</a>&nbsp;
-<a href="mailto:limm1618@gmail.com">
-  <img src="https://img.shields.io/badge/limm1618%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" height="32"/>
-</a>&nbsp;
-<a href="https://kaggle.com/limmingjie" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" height="32"/>
-</a>
+<a href="https://linkedin.com/in/ming-jie-lim-326a85227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" height="32"/></a> <a href="mailto:limm1618@gmail.com"><img src="https://img.shields.io/badge/limm1618%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" height="32"/></a> <a href="https://kaggle.com/limmingjie" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" height="32"/></a>
 
 ---
 
-<div align="center"><h3><code>[ ABOUT ME ]</code></h3></div>
-
 <div align="center">
+
+<h3><code>[ ABOUT ME ]</code></h3></div>
 
 ![](https://img.shields.io/badge/Education-B\.Eng_Robotics_%26_AI_%7C_Shanghai_Jiao_Tong_University-161B22?style=for-the-badge&labelColor=00C805)
 
@@ -30,13 +22,11 @@
 
 </div>
 
-
 ---
 
 <div align="center">
 
 <h3><code>[ TECH STACK ]</code></h3>
-
 
 ![](https://img.shields.io/badge/\/\/_LANGUAGES_%26_FRAMEWORKS-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
 
@@ -86,14 +76,6 @@
 <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 </p>
 
----
-
-<div align="center">
-
-<h3><code>[ METRICS ]</code></h3>
-
-
-
-<img src="https://streak-stats.demolab.com?user=mike522-byte&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF3A3A&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&stroke=00FF41" />
-
 </div>
+
+---
