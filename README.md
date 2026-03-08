@@ -6,10 +6,10 @@
 
 <a href="https://linkedin.com/in/ming-jie-lim-326a85227" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" height="32"/>
-</a>;
+</a>&nbsp;
 <a href="mailto:limm1618@gmail.com">
   <img src="https://img.shields.io/badge/limm1618%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" height="32"/>
-</a>;
+</a>&nbsp;
 <a href="https://kaggle.com/limmingjie" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" height="32"/>
 </a>
