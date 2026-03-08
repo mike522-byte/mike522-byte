@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=00C805&background=0D1117&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Ming+Jie+%F0%9F%99%82;AI+%2F+ML+Engineer;Fintech+Developer;Options+%26+Stocks+Trader" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=00C805&background=0D1117&center=true&vCenter=true&width=500&height=48&vCenter=true&lines=Hi+there%2C+I'm+Ming+Jie+%F0%9F%99%82;AI+%2F+ML+Engineer;Fintech+Developer;Options+%26+Stocks+Trader" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ![](https://img.shields.io/badge/Research-Machine_Learning_%7C_Deep_Learning_Models-161B22?style=for-the-badge&labelColor=00BFFF)
 
-![](https://img.shields.io/badge/Industry-Payment_Gateway_%7C_Python_%7C_SQL_%7C_LLM_Applications-161B22?style=for-the-badge&labelColor=FF8C00)
+![](https://img.shields.io/badge/Industry-Payment_Gateway_%7C_LLM_Applications_%7C_Python_%7C_SQL-161B22?style=for-the-badge&labelColor=FF8C00)
 
 ![](https://img.shields.io/badge/Hobby-Macro--Finance_%7C_Option_Trading-161B22?style=for-the-badge&labelColor=FF3A3A)
 
