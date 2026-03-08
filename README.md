@@ -16,9 +16,9 @@
 
 ![](https://img.shields.io/badge/Research-Machine_Learning_%7C_Deep_Learning_Models-161B22?style=for-the-badge&labelColor=00BFFF)
 
-![](https://img.shields.io/badge/Industry-Payment_Gateway_%7C_LLM_Applications_%7C_Python_%7C_SQL-161B22?style=for-the-badge&labelColor=FF8C00)
+![](https://img.shields.io/badge/Industry-Payment_Gateway_%7C_LLM_Application_%7C_Python_%7C_SQL-161B22?style=for-the-badge&labelColor=FF8C00)
 
-![](https://img.shields.io/badge/Hobby-Macro--Finance_%7C_Option_Trading-161B22?style=for-the-badge&labelColor=FF3A3A)
+![](https://img.shields.io/badge/Hobby-Macro--Finance_%7C_Trading_%7C_Movie-161B22?style=for-the-badge&labelColor=FF3A3A)
 
 </div>
 
