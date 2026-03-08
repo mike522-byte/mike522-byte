@@ -1,19 +1,99 @@
-<h1 align="center">Hi, I'm Ming Jie</h1>
-<h3 align="center">AI/ML researcher with experience in CV, LLM.</h3>
+<div align="center">
 
-- B.Eng in Robotics and Artificial Intelligence **of Shanghai Jiao Tong University**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=00C805&background=0D1117&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Ming+Jie+%F0%9F%99%82;AI+%2F+ML+Engineer;Fintech+Developer;Options+%26+Stocks+Trader" alt="Typing SVG" />
 
-- Research Background in Post-training (Fine-tune, quantization, distillation) of **Large Language Models** and **Vision Models**
+<br/>
 
-- Currently working in financial services sector, specializing in **Python**, **SQL** 
+<a href="https://linkedin.com/in/ming-jie-lim-326a85227" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" height="32"/>
+</a>&nbsp;
+<a href="mailto:limm1618@gmail.com">
+  <img src="https://img.shields.io/badge/limm1618%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" height="32"/>
+</a>&nbsp;
+<a href="https://kaggle.com/limmingjie" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" height="32"/>
+</a>
 
-- Retail Option Trading
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ming-jie-lim-326a85227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ming-jie-lim-326a85227" height="30" width="40" /></a>
-<a href="https://kaggle.com/limmingjie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="limmingjie" height="30" width="40" /></a>
+---
+
+<div align="center"><h3><code>[ ABOUT ME ]</code></h3></div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Education-B\.Eng_Robotics_%26_AI_%7C_Shanghai_Jiao_Tong_University-161B22?style=for-the-badge&labelColor=00C805)
+
+![](https://img.shields.io/badge/Research-Machine_Learning_%7C_Deep_Learning_Models-161B22?style=for-the-badge&labelColor=00BFFF)
+
+![](https://img.shields.io/badge/Industry-Payment_Gateway_%7C_Python_%7C_SQL_%7C_LLM_Applications-161B22?style=for-the-badge&labelColor=FF8C00)
+
+![](https://img.shields.io/badge/Hobby-Macro--Finance_%7C_Option_Trading-161B22?style=for-the-badge&labelColor=FF3A3A)
+
+</div>
+
+
+---
+
+<div align="center">
+
+<h3><code>[ TECH STACK ]</code></h3>
+
+
+![](https://img.shields.io/badge/\/\/_LANGUAGES_%26_FRAMEWORKS-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
+
+<p>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![](https://img.shields.io/badge/\/\/_DATA_ENGINEERING-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
+
+<p>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+<a href="https://flink.apache.org/" target="_blank"><img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" alt="flink" width="40" height="40"/></a>
+<a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+<a href="https://couchdb.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/></a>
+<a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+</p>
+
+![](https://img.shields.io/badge/\/\/_DATA_SCIENCE_%26_AI-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
+
+<p>
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" alt="langchain" width="40" height="40"/></a>
+<a href="https://openai.com/" target="_blank"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/></a>
+</p>
+
+![](https://img.shields.io/badge/\/\/_DEVOPS_%26_CLOUD-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
+
+<p>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+</p>
+
+---
+
+<div align="center">
+
+<h3><code>[ METRICS ]</code></h3>
+
+
+
+<img src="https://streak-stats.demolab.com?user=mike522-byte&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF3A3A&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&stroke=00FF41" />
+
+</div>
