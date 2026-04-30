@@ -30,51 +30,51 @@
 
 ![](https://img.shields.io/badge/\/\/_LANGUAGES_%26_FRAMEWORKS-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
 
-<p>
-<a href="https://www.python.org" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-<a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-</p>
+<table><tr>
+<td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a><br/><b>Python</b></td>
+<td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a><br/><b>C++</b></td>
+<td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a><br/><b>Java</b></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a><br/><b>JavaScript</b></td>
+<td align="center"><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a><br/><b>PHP</b></td>
+<td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a><br/><b>Django</b></td>
+</tr></table>
 
 ![](https://img.shields.io/badge/\/\/_DATA_ENGINEERING-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
 
-<p>
-<a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-<a href="https://flink.apache.org/" target="_blank" title="Apache Flink"><img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" alt="flink" width="40" height="40"/></a>
-<a href="https://hadoop.apache.org/" target="_blank" title="Apache Hadoop"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://mariadb.org/" target="_blank" title="MariaDB"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" title="Redis"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://couchdb.apache.org/" target="_blank" title="CouchDB"><img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/></a>
-<a href="https://www.elastic.co" target="_blank" title="Elasticsearch"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-</p>
+<table><tr>
+<td align="center"><a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a><br/><b>Kafka</b></td>
+<td align="center"><a href="https://flink.apache.org/"><img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" width="40" height="40"/></a><br/><b>Flink</b></td>
+<td align="center"><a href="https://hadoop.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/></a><br/><b>Hadoop</b></td>
+<td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a><br/><b>PostgreSQL</b></td>
+<td align="center"><a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/></a><br/><b>MariaDB</b></td>
+<td align="center"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a><br/><b>Redis</b></td>
+<td align="center"><a href="https://couchdb.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" width="40" height="40"/></a><br/><b>CouchDB</b></td>
+<td align="center"><a href="https://www.elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/></a><br/><b>Elasticsearch</b></td>
+</tr></table>
 
 ![](https://img.shields.io/badge/\/\/_DATA_SCIENCE_%26_AI-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
 
-<p>
-<a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-<a href="https://www.langchain.com/" target="_blank" title="LangChain"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" alt="langchain" width="40" height="40"/></a>
-<a href="https://openai.com/" target="_blank" title="OpenAI"><img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/></a>
-</p>
+<table><tr>
+<td align="center"><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a><br/><b>PyTorch</b></td>
+<td align="center"><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a><br/><b>TensorFlow</b></td>
+<td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a><br/><b>Scikit-Learn</b></td>
+<td align="center"><a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a><br/><b>OpenCV</b></td>
+<td align="center"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a><br/><b>Pandas</b></td>
+<td align="center"><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a><br/><b>NumPy</b></td>
+<td align="center"><a href="https://www.langchain.com/"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="40" height="40"/></a><br/><b>LangChain</b></td>
+<td align="center"><a href="https://openai.com/"><img src="https://www.svgrepo.com/show/306500/openai.svg" width="40" height="40"/></a><br/><b>OpenAI</b></td>
+</tr></table>
 
 ![](https://img.shields.io/badge/\/\/_DEVOPS_%26_CLOUD-161B22?style=for-the-badge&labelColor=0D1117&color=161B22)
 
-<p>
-<a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" title="GCP"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-</p>
-
+<table><tr>
+<td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a><br/><b>Docker</b></td>
+<td align="center"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a><br/><b>Kubernetes</b></td>
+<td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a><br/><b>Git</b></td>
+<td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br/><b>Linux</b></td>
+<td align="center"><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a><br/><b>AWS</b></td>
+<td align="center"><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a><br/><b>GCP</b></td>
+</tr></table>
 </div>
 
 ---
